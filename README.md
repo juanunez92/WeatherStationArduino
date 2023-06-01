@@ -7,10 +7,10 @@ I am pleased to present a personal project, I have assembled an Arduino with a w
 * [Technologies](#technologies)
 * [Circuit](#circuit)
 * [WebPage](#webpage)
-* [Contributing](#contributing)
+* [References](#references)
 * [Credits](#credits)
 
-## Technologies :rat:
+## Technologies
 
 In this part, we will explain how we have built the weather station prototype, the components, the circuit view, the schematic view, the prototype result and future implementations.
 
