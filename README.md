@@ -43,7 +43,20 @@ In this part, we will explain how we have built the weather station prototype, t
 
 - <strong>ESP8266:</strong> wifi module that allows us to access the internet and send the information obtained by the DHT11 module to the web page.
 
+<center>
+
+|  Name | Amount | Component |
+|:----------:|:----------:|:----------:|
+| U1    | 1   |Arduino R3 |
+| U2    | 1   |LCD 16 x 2 |
+| Rpot2    | 1   |250k \Omega |
+| DHT11   | 1   |Arduino R3 |
+| R1    | 1   |Arduino R3 |
+| R2    | 1   |Arduino R3 |
+
+</center>
 ## WebPage
 ## Contributing
 ## Credits
+
 
