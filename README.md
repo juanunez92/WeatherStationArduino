@@ -58,27 +58,27 @@ In this part, we will explain how we have built the weather station prototype, t
 </center>
 
 ##### Circuit Simulation
-<p>
+
 ![circuit](images/c.png)
-</p>
+
 
 ##### Schematic view
-<p>
+
 ![circuit](images/c1.png)
-</p>
+
 
 ##### Results
-<p>
+
 ![circuit](images/c3.jpg)
-</p>
+
 
 ## WebPage
 
 ![webpage](images/c5.png)
 
-<p>
+
 ![circuit](images/c4.png)
-</p>
+
 
 ## References
 
