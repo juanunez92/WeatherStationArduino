@@ -73,9 +73,9 @@ In this part, we will explain how we have built the weather station prototype, t
 </p>
 
 ## WebPage
-<p>
+
 ![webpage](images/c5.png)
-</p>
+
 <p>
 ![circuit](images/c4.png)
 </p>
