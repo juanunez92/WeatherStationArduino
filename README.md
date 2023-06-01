@@ -45,6 +45,7 @@ In this part, we will explain how we have built the weather station prototype, t
 
 
 <div align="center">  
+  
 |  Name | Amount | Component |
 |:----------:|:----------:|:----------:|
 | U1    | 1   |Arduino R3 |
