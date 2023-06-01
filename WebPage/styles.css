@@ -1,0 +1,167 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.formLogin {
+  width: 400px;
+  height: 340px;
+  background-color: white;
+  margin: auto;
+  margin-top: 180px;
+  box-shadow: 7px 13px 37px #000;
+  padding: 20px 30px;
+  color: black;
+  border-radius: 5px;
+}
+body {
+  width: 100%;
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("back.png");  
+}
+.formLogin h5 {
+  margin: 0;
+  text-align: center;
+  height: 40px;
+  margin-bottom: 30px;
+  border-bottom: 3px solid;
+  font-size: 20px;
+}
+
+.data {
+  width: 100%;
+  border: 2px solid grey;
+  margin-bottom: 15px;
+  padding: 11px 10px;
+  background: white;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.button {
+  width: 100%;
+  height: 40px;
+  background: #19b444;
+  border: none;
+  color: black;
+  margin-bottom: 16px;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.formLogin p {
+  height: 40px;
+  text-align: center;
+}
+
+.formLogin a {
+  color: black;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.formLogin a:hover {
+  text-decoration: underline;
+}
+
+.horizontal nav ul {
+  display: flex;
+  margin-left: 900px;
+  list-style: none;
+  margin-top: 20px;
+}
+
+.horizontal nav ul li a {
+  list-style-type: none;
+  color: white;
+  padding: 10px;
+  display: block;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.horizontal nav ul li a:hover {
+  font-weight: bold;
+  color: black;
+}
+.img{
+  width: 400px;
+  height: 400px;
+  margin-left: 200px;
+  margin-bottom: 100px;
+  margin-top: -220px;
+}
+.city{
+  height: 200px;
+  width: 300px;
+  margin-left: 900px;
+  margin-top: -400px;
+  font-size:  50px;
+  font-weight: bold;
+}
+.grados{
+  float: left;
+}
+.allGrados{
+  font-size: 50px;
+  font-weight: bold;
+  width: 200px;
+  margin-top: 200px;
+  margin-left: 600px;
+}
+.allMid{
+  margin-top: -600px;
+}
+.allC2{
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  width: 200px;
+  margin-left: 300px;
+  margin-top: -680px;
+}
+.presion{
+  margin-top: 500px;
+  margin-bottom: 50px;
+}
+.allC1{
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  width: 200px;
+  margin-left: 950px;
+  margin-top: 400px;
+}
+.hum{
+  margin-top: 50px;
+  
+}
+.search{
+  padding: 10px 20px;
+  margin: 0px auto;
+}
+
+.bcity{
+  flex: auto;
+  float: right;
+  width: 100px;
+  height: 40px;
+  background: #19b444;
+  border: none;
+  color: black;
+  margin-bottom: 16px;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.icity{
+  border-right: 100px;
+height: 50x;
+float: right;
+border: 1px solid black;
+
+}
+

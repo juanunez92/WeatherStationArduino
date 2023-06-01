@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Clima</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body onload="onload()">
+    <header>
+      <div class="horizontal">
+        <nav>
+          <ul>
+            <li><a href="./estacion.html">Tú Estacion</a></li>
+            <li><a href="./main.html">Meteo</a></li>
+            <li><a href="./city.html">Ciudades</a></li>
+            <li><a href="./prediction.html">Predicción</a></li>
+            <li><a href="./login.html">Log Out</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <div class="allC">
+      <div class="allC1">
+        <p class="humedad">Humedad</p>
+        <div id="humidity" class="hum"></div>
+      </div>
+       <div class="allC2">
+        <p class="presion">Presión</p>
+        <div id="pressure"></div>
+       </div>
+       <div class="allMid">
+          <div class="allGrados">
+            <div id="temperature"class="grados"></div>
+            <p class="c">ºC</p>
+          </div>
+        <img id="iconSun" class="img" src="" alt="">
+        <div class="city">
+          <div id="location"></div>
+          <div id="description"></div>
+          <div id="date"></div>
+        </div>
+        </div>
+      </div>
+    </div>
+   
+    <script src="./main.js"></script>
+  </body>
+</html>
