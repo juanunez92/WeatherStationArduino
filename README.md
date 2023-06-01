@@ -49,14 +49,45 @@ In this part, we will explain how we have built the weather station prototype, t
 |:----------:|:----------:|:----------:|
 | U1    | 1   |Arduino R3 |
 | U2    | 1   |LCD 16 x 2 |
-| Rpot2    | 1   |250k \0mega |
-| DHT11   | 1   |Arduino R3 |
-| R1    | 1   |Arduino R3 |
-| R2    | 1   |Arduino R3 |
+| Rpot2    | 1   |250k&Omega; Potentiometer |
+| DHT11   | 1   |Temperature sensor |
+| R1    | 1   | &Omega; Resistance|
+| R2    | 1   | &Omega; Resistance |
+| U3  | 1   | Wifi (ESP8266) |
 
 </center>
+
+##### Circuit Simulation
+<p>
+![circuit](images/c.png)
+</p>
+
+##### Schematic view
+<p>
+![circuit](images/c1.png)
+</p>
+
+##### Results
+<p>
+![circuit](images/c3.jpg)
+</p>
+
 ## WebPage
-## Contributing
+<p>
+![webpage](images/c5.png)
+</p>
+<p>
+![circuit](images/c4.png)
+</p>
+
+## References
+
+* [OpenWeather.org](https://openweathermap.org/current) - API Weather
+* [DHT 11 Guide](https://randomnerdtutorials.com/complete-guide-for-dht11dht22-humidity-and- temperature-sensor-with-arduino/) - Guide for DHT 11 Humidity and Temperature Sensor With Arduino
+* [Wifi Module](https://www.microchip.ua/wireless/esp01.pdf) - ESP-01 Wifi Module
+
 ## Credits
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanunez92)			[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnuneznun/)
 
 
