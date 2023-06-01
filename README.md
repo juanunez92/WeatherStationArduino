@@ -49,7 +49,7 @@ In this part, we will explain how we have built the weather station prototype, t
 |:----------:|:----------:|:----------:|
 | U1    | 1   |Arduino R3 |
 | U2    | 1   |LCD 16 x 2 |
-| Rpot2    | 1   |250k \Omega |
+| Rpot2    | 1   |250k \0mega |
 | DHT11   | 1   |Arduino R3 |
 | R1    | 1   |Arduino R3 |
 | R2    | 1   |Arduino R3 |
