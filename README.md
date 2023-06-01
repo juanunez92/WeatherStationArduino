@@ -1,4 +1,4 @@
-## Weather Station Arduino and WebPage connected to API
+## Weather Station Arduino and WebPage connected to API ☁️
 
 I am pleased to present a personal project, I have assembled an Arduino with a weather data receiver and a web page to query the weather data.
 
@@ -10,7 +10,7 @@ I am pleased to present a personal project, I have assembled an Arduino with a w
 * [References](#references)
 * [Credits](#credits)
 
-## Technologies
+## Technologies 
 
 In this part, we will explain how we have built the weather station prototype, the components, the circuit view, the schematic view, the prototype result and future implementations.
 
